@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e0ac9ed026b644d8ae72b094804155, type: 3}
+  m_Name: SongConfig
+  m_EditorClassIdentifier: 
+  SongList:
+  - m_title: London bridge
+    m_file: {fileID: 4900000, guid: 0f258bdbbbda66b44a82275cb86b37b5, type: 3}
+  - m_title: Do re mi
+    m_file: {fileID: 4900000, guid: 77f008d512b204d2e874cc105e15ed12, type: 3}
+  - m_title: Old McDonald
+    m_file: {fileID: 4900000, guid: 4b2045c79f6784353a918a52383c37ad, type: 3}
+  - m_title: Jingle bells
+    m_file: {fileID: 4900000, guid: 02f046ad91656455d9a85bbd041b3bb0, type: 3}
+  - m_title: Twinkle, Twinkle little star
+    m_file: {fileID: 4900000, guid: 37078bef263954672a04a2c3bb6e7ba4, type: 3}
+  - m_title: Happy birthday
+    m_file: {fileID: 4900000, guid: 06d712ec7371f41869d9e44e5fee7c4d, type: 3}
+  - m_title: Daddy finger
+    m_file: {fileID: 4900000, guid: 2334f2cdb568e4ca3abc3881ac2ccdc0, type: 3}
+  - m_title: Itsy Bitsy Spider
+    m_file: {fileID: 4900000, guid: 89162abc4fb65499f85e43b074a18042, type: 3}
+  - m_title: Mary had a little lamp
+    m_file: {fileID: 4900000, guid: 8417d90f4c03f410d910429dc9c75072, type: 3}
+  - m_title: Popeye the sailor
+    m_file: {fileID: 4900000, guid: 66e2d1722dbed4de7bac638efab090b8, type: 3}
+  - m_title: Baa, baa, black sheep
+    m_file: {fileID: 4900000, guid: 2e208462c9997419c97022afbb704b48, type: 3}
+  - m_title: I love you (Barney)
+    m_file: {fileID: 4900000, guid: ebff49eea14d7f442916f3b9761e7110, type: 3}
+  - m_title: Oh Susannah
+    m_file: {fileID: 4900000, guid: 17d9e15c42c032a4b8fb20e0755d0c7a, type: 3}
+  - m_title: The Cockroach
+    m_file: {fileID: 4900000, guid: 3c651418c6652a24a8c66be2ac8dbb9a, type: 3}
+  - m_title: Song of Joy
+    m_file: {fileID: 4900000, guid: d1e3cd8881df90f4997877ac11e05591, type: 3}
+  - m_title: Silent Night
+    m_file: {fileID: 4900000, guid: 6be6827e2e938b145824664ac79ec13c, type: 3}
+  - m_title: Old Long Syne
+    m_file: {fileID: 4900000, guid: 0d94ca551ceef3047b502685f9b29ba4, type: 3}
+  - m_title: The Blue Danube
+    m_file: {fileID: 4900000, guid: 9d0bd14c639a87d44bc96d1ed2710bfc, type: 3}
+  - m_title: Two Pigeons
+    m_file: {fileID: 4900000, guid: ef7488b7c41c29c45873f514115d7643, type: 3}
+  - m_title: The Elephants
+    m_file: {fileID: 4900000, guid: 9ffbb69dcb5d9674d9bd08c8e12f4592, type: 3}
+  - m_title: You are my sunshine
+    m_file: {fileID: 4900000, guid: 50aad7b21267a744993f5cadb548ad96, type: 3}
+  - m_title: Ten Puppies
+    m_file: {fileID: 4900000, guid: 7e3f3bb5c95376344880cb89bd4a0586, type: 3}
+  - m_title: For he's a jolly good fellow
+    m_file: {fileID: 4900000, guid: e2d2f6fe4bdbf5d47814e00fe530f6d1, type: 3}
+  - m_title: The little chicks
+    m_file: {fileID: 4900000, guid: 748e2f27139f9b449a924adfe7d50a25, type: 3}
+  - m_title: Passenger
+    m_file: {fileID: 4900000, guid: 99ecac259973906479ff024a50b5a62d, type: 3}
+  - m_title: I have a doll
+    m_file: {fileID: 4900000, guid: d5cf1e864e7e2e64eba2cc1d71a0e255, type: 3}
+  - m_title: Under a button
+    m_file: {fileID: 4900000, guid: 1eb4e252617652746a9177eb740c9823, type: 3}
+  - m_title: My Hat
+    m_file: {fileID: 4900000, guid: 22d3ab44758cd65449f9f1606397ffd4, type: 3}
+  - m_title: Yankee Doodle
+    m_file: {fileID: 4900000, guid: 345f05401306ac64abe956e52bf3023d, type: 3}

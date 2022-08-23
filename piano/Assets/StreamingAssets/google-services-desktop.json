@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803296882839",
+    "firebase_url": "https://musical-piano.firebaseio.com",
+    "project_id": "musical-piano",
+    "storage_bucket": "musical-piano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803296882839:android:566072df5d461f252f79d2",
+        "android_client_info": {
+          "package_name": "com.kidspiano.musical.piano.kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803296882839-dmd503hcsk3iggsv7jm38isohafnqkvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLPROLcQSIenMhzXa7ravVs7-P-ULyFe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803296882839-dmd503hcsk3iggsv7jm38isohafnqkvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
